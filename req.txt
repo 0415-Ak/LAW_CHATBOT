@@ -1,0 +1,11 @@
+langchain>=0.2.2
+langchain-core
+langchain-pinecone
+langchain-mistralai
+langchain-huggingface
+sentence-transformers
+pinecone-client
+python-dotenv
+notebook
+langchain-cohere
+cohere
